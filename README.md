@@ -47,6 +47,8 @@
 
 ## JavaScript 
 
+- [Mohammad-Al-Bast/Movie-Watchlist](https://github.com/Mohammad-Al-Bast/Movie-Watchlist) - 
+- [Mohammad-Al-Bast/Product-Inventory-System](https://github.com/Mohammad-Al-Bast/Product-Inventory-System) - 
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -91,6 +93,7 @@
 
 ## PHP 
 
+- [Mohammad-Al-Bast/EDUadmin-backend](https://github.com/Mohammad-Al-Bast/EDUadmin-backend) - EDUadmin is a modern educational administration platform designed to simplify academic management for educational institutions. It provides tools for managing students, courses, grade changes, and adm
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
 ## Python 
@@ -128,6 +131,7 @@
 
 ## TypeScript 
 
+- [Mohammad-Al-Bast/EDUadmin-frontend](https://github.com/Mohammad-Al-Bast/EDUadmin-frontend) - A comprehensive educational administration platform for managing academic operations
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
