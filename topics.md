@@ -20,6 +20,7 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [compiler](#compiler)
+- [crawler](#crawler)
 - [css](#css)
 - [data](#data)
 - [database](#database)
@@ -57,6 +58,7 @@
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [markdown](#markdown)
 - [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
@@ -129,6 +131,7 @@
 
 ## ai 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -137,6 +140,7 @@
 
 ## ai-agents 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -201,6 +205,10 @@
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+## crawler 
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
 ## css 
 
@@ -390,6 +398,7 @@
 
 ## llm 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
@@ -405,6 +414,10 @@
 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+
+## markdown 
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
 ## mcp 
 
