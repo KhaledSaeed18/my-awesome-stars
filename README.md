@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
@@ -33,6 +34,10 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 
+## C++ 
+
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
 ## CSS 
 
 - [jamezmca/fantacss](https://github.com/jamezmca/fantacss) - Lightweight fantasy CSS styles
@@ -48,6 +53,7 @@
 
 ## JavaScript 
 
+- [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [Mohammad-Al-Bast/Movie-Watchlist](https://github.com/Mohammad-Al-Bast/Movie-Watchlist) - 
