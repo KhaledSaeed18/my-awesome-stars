@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MDX](#mdx)
@@ -51,8 +52,13 @@
 
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 
+## Java 
+
+- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+
 ## JavaScript 
 
+- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
