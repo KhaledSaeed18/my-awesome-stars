@@ -33,6 +33,7 @@
 - [electron](#electron)
 - [eslint](#eslint)
 - [express](#express)
+- [fastapi](#fastapi)
 - [framework](#framework)
 - [frontend](#frontend)
 - [generative-ai](#generative-ai)
@@ -282,6 +283,10 @@
 - [KhaledSaeed18/node-authentication-template](https://github.com/KhaledSaeed18/node-authentication-template) - 🔐 A Node.js authentication template built with TypeScript, Express and PostgreSQL with Prisma. Includes secure JWT-based authentication, email verification (OTP), password reset, 2FA with QR codes, lo
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [frankhale/electron-with-express](https://github.com/frankhale/electron-with-express) - A simple app that demonstrates spawning an Express app from Electron
+
+## fastapi 
+
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## framework 
 
