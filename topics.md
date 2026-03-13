@@ -46,6 +46,7 @@
 - [html](#html)
 - [html5](#html5)
 - [ios](#ios)
+- [java](#java)
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
@@ -361,6 +362,10 @@
 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
+## java 
+
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
+
 ## javascript 
 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
@@ -410,6 +415,7 @@
 ## laravel 
 
 - [Mohammad-Al-Bast/EDUadmin-backend](https://github.com/Mohammad-Al-Bast/EDUadmin-backend) - EDUadmin is a modern educational administration platform designed to simplify academic management for educational institutions. It provides tools for managing students, courses, grade changes, and adm
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## learning 
 
@@ -750,7 +756,7 @@
 
 ## scala 
 
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 
 ## security 
 
