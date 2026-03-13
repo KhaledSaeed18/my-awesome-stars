@@ -55,7 +55,7 @@
 
 ## Java 
 
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 
 ## JavaScript 
 
