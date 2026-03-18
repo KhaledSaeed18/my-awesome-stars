@@ -97,7 +97,6 @@
 ## MDX 
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ## Others 
 
@@ -122,6 +121,7 @@
 - [alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 - [scanny/python-pptx](https://github.com/scanny/python-pptx) - Create Open XML PowerPoint documents in Python
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -143,6 +143,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [shinbatsu/git-tips](https://github.com/shinbatsu/git-tips) - Some useful info about working with git
 
