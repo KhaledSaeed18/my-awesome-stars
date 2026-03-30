@@ -145,6 +145,7 @@
 
 ## ai 
 
+- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
@@ -523,6 +524,7 @@
 
 ## nextjs 
 
+- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -606,6 +608,7 @@
 
 ## others 
 
+- [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
 - [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -720,6 +723,7 @@
 
 ## react 
 
+- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
@@ -851,6 +855,7 @@
 
 ## tailwindcss 
 
+- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [moumen-soliman/uitripled](https://github.com/moumen-soliman/uitripled) - Production-ready UI blocks, components, and full pages available in shadcn/ui and Base UI, powered by Framer Motion, with a Landing Page Builder, Background Builder, and Grid Generator.
 - [Mohammad-Al-Bast/EDUadmin-frontend](https://github.com/Mohammad-Al-Bast/EDUadmin-frontend) - A comprehensive educational administration platform for managing academic operations
 - [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
@@ -916,6 +921,7 @@
 
 ## ui 
 
+- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
