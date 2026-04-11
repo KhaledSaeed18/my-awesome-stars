@@ -42,6 +42,7 @@
 - [frontend](#frontend)
 - [generative-ai](#generative-ai)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
@@ -349,6 +350,10 @@
 
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [shinbatsu/git-tips](https://github.com/shinbatsu/git-tips) - Some useful info about working with git
+
+## github 
+
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 
 ## go 
 
