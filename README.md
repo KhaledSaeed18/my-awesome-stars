@@ -179,7 +179,7 @@
 - [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [moumen-soliman/uitripled](https://github.com/moumen-soliman/uitripled) - Production-ready UI blocks, components, and full pages available in shadcn/ui and Base UI, powered by Framer Motion, with a Landing Page Builder, Background Builder, and Grid Generator.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Graphs that teach &gt; graphs that impress. Works with Claud
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [shadcnblocks/shadcn-ui-blocks](https://github.com/shadcnblocks/shadcn-ui-blocks) - Hundreds of extra shadcn ui blocks & components.
