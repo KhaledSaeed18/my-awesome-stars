@@ -17,10 +17,12 @@
 - [azure](#azure)
 - [babel](#babel)
 - [backend](#backend)
+- [c](#c)
 - [chatgpt](#chatgpt)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
+- [cms](#cms)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -140,6 +142,7 @@
 
 ## 3d 
 
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [playcanvas/react](https://github.com/playcanvas/react) - Build 3D apps with React
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -221,6 +224,11 @@
 - [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
 - [KhaledSaeed18/nodejs-behind-scenes](https://github.com/KhaledSaeed18/nodejs-behind-scenes) - A comprehensive guide exploring Node.js internals including the event loop, streams, modules, and event-driven architecture. Deep dive into V8 engine, libuv, thread pools, and core concepts with pract
 
+## c 
+
+- [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
+
 ## chatgpt 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -232,6 +240,7 @@
 
 ## cli 
 
+- [SocketDev/socket-cli](https://github.com/SocketDev/socket-cli) - The Socket CLI
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - 🛸 The modern registry toolchain.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -241,6 +250,10 @@
 ## cloud 
 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
+## cms 
+
+- [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 
 ## command-line 
 
@@ -652,6 +665,9 @@
 
 ## others 
 
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
@@ -840,6 +856,7 @@
 
 ## rust 
 
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rustfinity/rustfinity](https://github.com/rustfinity/rustfinity) - Learn and Practice the Rust programming language the effective way.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -850,6 +867,7 @@
 
 ## security 
 
+- [SocketDev/socket-cli](https://github.com/SocketDev/socket-cli) - The Socket CLI
 - [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 
