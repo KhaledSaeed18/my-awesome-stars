@@ -234,7 +234,7 @@
 - [playcanvas/react](https://github.com/playcanvas/react) - Build 3D apps with React
 - [yuskraft/ratti](https://github.com/yuskraft/ratti) - 🌟 A highly-configurable, accessible star rating component for React applications with TypeScript support.
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
