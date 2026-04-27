@@ -51,6 +51,7 @@
 
 ## Go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓 By @miguelmota
 
@@ -130,6 +131,7 @@
 
 ## Python 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -166,9 +168,10 @@
 
 ## Shell 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [shinbatsu/git-tips](https://github.com/shinbatsu/git-tips) - Some useful info about working with git
 
@@ -182,6 +185,7 @@
 
 ## TypeScript 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [KartikLabhshetwar/screenshot-studio](https://github.com/KartikLabhshetwar/screenshot-studio) - A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 - [kapishdima/soundcn](https://github.com/kapishdima/soundcn) - 700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
@@ -271,7 +275,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Express.js boilerplate provides a solid foundation for building scalable REST APIs using modern development practices, clean architecture principles, and industry-standard security measures.
+- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
 - [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
