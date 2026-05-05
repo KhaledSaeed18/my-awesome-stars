@@ -1057,6 +1057,8 @@
 
 ## svelte 
 
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
+- [ieedan/shadcn-svelte-extras](https://github.com/ieedan/shadcn-svelte-extras) - Turn key shadcn-svelte components to help finish your app.
 - [DavidHDev/svelte-bits](https://github.com/DavidHDev/svelte-bits) - An open source collection of animated, interactive & fully customizable Svelte components for building memorable websites.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 
@@ -1071,6 +1073,7 @@
 
 ## tailwindcss 
 
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [turbostarter/loading-ui](https://github.com/turbostarter/loading-ui) - Spinners, loaders and loading animations for modern web apps ⏳
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal, pixel-perfect dev portfolio, shadcn registry, and blog.
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
