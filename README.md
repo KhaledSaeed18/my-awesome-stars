@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -48,6 +49,10 @@
 ## CSS 
 
 - [jamezmca/fantacss](https://github.com/jamezmca/fantacss) - Lightweight fantasy CSS styles
+
+## GDScript 
+
+- [FrancescoXX/crushers](https://github.com/FrancescoXX/crushers) - 
 
 ## Go 
 
@@ -168,6 +173,7 @@
 
 ## Rust 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
