@@ -825,6 +825,8 @@
 
 ## others 
 
+- [maddada/Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty + Codex app = Ghostex! Embedded browser. Strong agents support.
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [FrancescoXX/crushers](https://github.com/FrancescoXX/crushers) - 
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
