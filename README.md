@@ -173,6 +173,7 @@
 
 ## Rust 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -328,6 +329,7 @@
 
 ## Zig 
 
+- [maddada/Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty + Codex app = Ghostex! Embedded browser. Strong agents support.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
