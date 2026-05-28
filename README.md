@@ -197,7 +197,6 @@
 
 ## Shell 
 
-- [franky47/dotfiles](https://github.com/franky47/dotfiles) - Configuration for the tools I used, synced with stow
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -217,12 +216,15 @@
 
 ## TypeScript 
 
+- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - The Starting Point for Next-Gen Agents
+- [kapishdima/whichly](https://github.com/kapishdima/whichly) - Code multiple variants of a section, let clients pick the winner live on your real staging site
 - [jal-co/scn-stack](https://github.com/jal-co/scn-stack) - Scaffold a complete shadcn component registry with documentation in minutes. Interactive CLI — choose framework, docs engine, starter components.
 - [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
 - [alp82/aistack](https://github.com/alp82/aistack) - Like Stackshare but for AI
 - [shadcn-ui/registry-template](https://github.com/shadcn-ui/registry-template) - A template for running your own registry.
 - [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲Vercel OSS Program
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
+- [franky47/dotfiles](https://github.com/franky47/dotfiles) - Configuration for the tools I used, synced with stow
 - [autofix-ci/action](https://github.com/autofix-ci/action) - The autofix.ci GitHub Action.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [radiumcoders/Evil-Buttons](https://github.com/radiumcoders/Evil-Buttons) - shadcn/ui registry of playful, highly animated button components with 8-bit aesthetics and punchy interactions.
@@ -269,7 +271,7 @@
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [Mohammad-Al-Bast/EDUadmin-frontend](https://github.com/Mohammad-Al-Bast/EDUadmin-frontend) - A comprehensive educational administration platform for managing academic operations
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
