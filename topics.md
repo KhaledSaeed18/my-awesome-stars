@@ -858,6 +858,7 @@
 
 ## others 
 
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [jginorio/context101](https://github.com/jginorio/context101) - 
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - The Starting Point for Next-Gen Agents
