@@ -195,7 +195,7 @@
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [alp82/aistack](https://github.com/alp82/aistack) - Like Stackshare but for AI
 - [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -1002,7 +1002,7 @@
 ## privacy 
 
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [ArshVermaGit/SimplyPDF](https://github.com/ArshVermaGit/SimplyPDF) - 📄 The PDF tool that respects your privacy. Edit, convert, merge, split—all in your browser. Client-side only. Open source. Beautiful UI. 16+ pro features.
@@ -1424,7 +1424,7 @@
 
 ## windows 
 
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
