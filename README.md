@@ -151,7 +151,7 @@
 
 ## Python 
 
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade CLI: AI agent memory, handoffs, and local guardrails for Codex, Claude Code, OpenCode, Hermes, and OpenClaw.
+- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - One local source for the MCP servers, tools, and memory your AI coding agents share, synced into each tool's native config with a review gate and a receipt for every change. No daemon, no lock-in.
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
