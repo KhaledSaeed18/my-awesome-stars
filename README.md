@@ -65,7 +65,6 @@
 ## HTML 
 
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
-- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 
 ## Java 
@@ -136,6 +135,7 @@
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 - [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
+- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -237,7 +237,7 @@
 - [shadcn-labs/ogimagecn](https://github.com/shadcn-labs/ogimagecn) - Beautiful Open Graph image components, built on Satori. 100% Free, Zero config, one command setup.
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
-- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo bui
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [sharkui-inc/shark-ui](https://github.com/sharkui-inc/shark-ui) - Beautifully designed components built with Ark UI and Tailwind.
 - [zzzzshawn/matrix](https://github.com/zzzzshawn/matrix) - 
 - [vprix21/neonblade-ui](https://github.com/vprix21/neonblade-ui) - Futuristic React UI component library - neon, sci-fi, and futuristic components for modern web apps. Install via CLI.
