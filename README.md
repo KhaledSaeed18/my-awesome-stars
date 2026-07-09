@@ -161,7 +161,7 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - One local source for the MCP servers, tools, and memory your AI coding agents share, synced into each tool's native config with a review gate and a receipt for every change. No daemon, no lock-in.
+- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory across harnesses; prove with file receipts; improve only from real exit codes. No daemon, no lock-i
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
