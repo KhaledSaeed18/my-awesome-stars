@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -29,10 +28,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
-
-## Astro 
-
-- [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui) - shadcn/ui for Astro. 49+ animated and accessible components. Install via CLI. Own the code.
 
 ## C 
 
@@ -260,6 +255,7 @@
 - [shadcn/throwaway-00](https://github.com/shadcn/throwaway-00) - 
 - [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio) - Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)
 - [vansh-nagar/Pixel-Perfect](https://github.com/vansh-nagar/Pixel-Perfect) - Pixel Perfect UI is a precision-crafted UI library built for developers and designers who care about details.
+- [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui) - shadcn/ui for Astro. 49+ animated and accessible components. Install via CLI. Own the code.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
