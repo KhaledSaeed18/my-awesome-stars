@@ -143,7 +143,6 @@
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [KhaledSaeed18/nodejs-behind-scenes](https://github.com/KhaledSaeed18/nodejs-behind-scenes) - A comprehensive guide exploring Node.js internals including the event loop, streams, modules, and event-driven architecture. Deep dive into V8 engine, libuv, thread pools, and core concepts with pract
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019
 
@@ -373,8 +372,6 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
-- [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
