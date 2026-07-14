@@ -21,7 +21,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
-- [backend](#backend)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [claude](#claude)
@@ -158,7 +157,6 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
-- [testing](#testing)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -244,7 +242,6 @@
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
 
 ## analytics 
 
@@ -261,7 +258,6 @@
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
 
 ## artificial-intelligence 
 
@@ -312,12 +308,6 @@
 
 - [afsar-dev/Nurui](https://github.com/afsar-dev/Nurui) - 🔥💯 Nur/ui is a modern React and Next.js based UI component library. It streamlines front-end development with powerful features like CLI scaffolding, automatic TypeScript-to-JavaScript conversion, and
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-
-## backend 
-
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
-- [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
-- [KhaledSaeed18/nodejs-behind-scenes](https://github.com/KhaledSaeed18/nodejs-behind-scenes) - A comprehensive guide exploring Node.js internals including the event loop, streams, modules, and event-driven architecture. Deep dive into V8 engine, libuv, thread pools, and core concepts with pract
 
 ## c 
 
@@ -480,7 +470,6 @@
 
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
 
 ## documentation 
 
@@ -667,7 +656,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [KhaledSaeed18/nodejs-behind-scenes](https://github.com/KhaledSaeed18/nodejs-behind-scenes) - A comprehensive guide exploring Node.js internals including the event loop, streams, modules, and event-driven architecture. Deep dive into V8 engine, libuv, thread pools, and core concepts with pract
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓 By @miguelmota
@@ -890,9 +878,6 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
-- [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
-- [KhaledSaeed18/nodejs-behind-scenes](https://github.com/KhaledSaeed18/nodejs-behind-scenes) - A comprehensive guide exploring Node.js internals including the event loop, streams, modules, and event-driven architecture. Deep dive into V8 engine, libuv, thread pools, and core concepts with pract
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓 By @miguelmota
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -901,7 +886,6 @@
 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
@@ -1207,7 +1191,6 @@
 
 - [Mohammad-Al-Bast/EDUadmin-frontend](https://github.com/Mohammad-Al-Bast/EDUadmin-frontend) - A comprehensive educational administration platform for managing academic operations
 - [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
 
 ## ruby 
 
@@ -1358,10 +1341,6 @@
 
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
-## testing 
-
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
-
 ## tui 
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1414,8 +1393,6 @@
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
-- [KhaledSaeed18/node-express-boilerplate](https://github.com/KhaledSaeed18/node-express-boilerplate) - Production-ready Express + TypeScript backend boilerplate with clean layered architecture, dependency injection, JWT + CSRF security, structured logging, automated CI/CD, Docker support, and built-in 
-- [KhaledSaeed18/nodejs-backend-caching](https://github.com/KhaledSaeed18/nodejs-backend-caching) - A Node.js backend service demonstrating the power of in-memory caching using the node-cache package. This project utilizes caching to optimize data retrieval performance, reducing database calls and i
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
