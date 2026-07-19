@@ -73,7 +73,7 @@
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
@@ -261,7 +261,7 @@
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 - [kapishdima/whichly](https://github.com/kapishdima/whichly) - Code multiple variants of a section, let clients pick the winner live on your real staging site
 - [jal-co/scn-stack](https://github.com/jal-co/scn-stack) - Scaffold a complete shadcn component registry with documentation in minutes. Interactive CLI — choose framework, docs engine, starter components.
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
 - [alp82/aistack](https://github.com/alp82/aistack) - Like Stackshare but for AI
 - [shadcn-ui/registry-template](https://github.com/shadcn-ui/registry-template) - A template for running your own registry.
 - [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲Vercel OSS Program
