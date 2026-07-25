@@ -958,6 +958,7 @@
 
 ## others 
 
+- [1612elphi/delphitools](https://github.com/1612elphi/delphitools) - Collection of tools for designers and artists
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
