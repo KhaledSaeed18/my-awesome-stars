@@ -1250,6 +1250,7 @@
 
 ## react-native 
 
+- [brilliantinsane/tenkit](https://github.com/brilliantinsane/tenkit) - Build one mobile app with Expo and ship it as many branded apps from a shared codebase.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
@@ -1443,6 +1444,7 @@
 
 ## typescript 
 
+- [brilliantinsane/tenkit](https://github.com/brilliantinsane/tenkit) - Build one mobile app with Expo and ship it as many branded apps from a shared codebase.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui) - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
