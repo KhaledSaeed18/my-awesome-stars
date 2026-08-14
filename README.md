@@ -159,7 +159,7 @@
 - [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzz
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Agents claim work they did not do. Brigade makes them prove it: a check run through Brigade writes a file with the real exit code. A built-in code graph tells them who calls what and what a change bre
+- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - Steno is the highly secure privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. For government and defence sectors.
