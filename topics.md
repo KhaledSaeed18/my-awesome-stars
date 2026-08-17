@@ -229,6 +229,7 @@
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - Steno is the highly secure privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. For government and defence sectors.
 - [alp82/aistack](https://github.com/alp82/aistack) - Like Stackshare but for AI
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
@@ -865,6 +866,7 @@
 
 ## monitoring 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 
 ## mysql 
@@ -1002,6 +1004,7 @@
 ## openai 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1030,7 +1033,7 @@
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
 - [sharkui-inc/shark-ui](https://github.com/sharkui-inc/shark-ui) - Beautifully designed components built with Ark UI and Tailwind.
 - [zzzzshawn/matrix](https://github.com/zzzzshawn/matrix) - 
-- [automic-vault/automic-vault](https://github.com/automic-vault/automic-vault) - A new kind of secrets manager for a new era of development.
+- [automic-vault/automic-vault](https://github.com/automic-vault/automic-vault) - Your secrets manager should know what the secrets *do*.
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [shadcn/throwaway-00](https://github.com/shadcn/throwaway-00) - 
 - [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio) - Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)
@@ -1343,6 +1346,7 @@
 
 ## self-hosted 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
