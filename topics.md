@@ -1033,6 +1033,8 @@
 
 ## others 
 
+- [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) - Create smooth, responsive interactive web animations.
+- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [modem-dev/sideshow](https://github.com/modem-dev/sideshow) - The missing visual surface companion for agents - generate UI mockups, data visualizations, code explainers, and more
 - [markuppp/normal-tools](https://github.com/markuppp/normal-tools) - An open-source collection of fast, privacy-first browser tools for text, files, calculations, conversions, developer tasks, and hardware testing. No accounts or uploads.
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
