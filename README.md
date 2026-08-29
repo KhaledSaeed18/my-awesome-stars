@@ -261,6 +261,8 @@
 
 ## TypeScript 
 
+- [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
+- [apple/app-store-server-library-node](https://github.com/apple/app-store-server-library-node) - The Node.js server library for the App Store Server API and App Store Server Notifications.
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [modem-dev/sideshow](https://github.com/modem-dev/sideshow) - The missing visual surface companion for agents - generate UI mockups, data visualizations, code explainers, and more
 - [markuppp/normal-tools](https://github.com/markuppp/normal-tools) - An open-source collection of fast, privacy-first browser tools for text, files, calculations, conversions, developer tasks, and hardware testing. No accounts or uploads.
@@ -272,7 +274,7 @@
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
-- [1612elphi/delphitools](https://github.com/1612elphi/delphitools) - Collection of tools for designers and artists
+- [1612elphi/delphitools](https://github.com/1612elphi/delphitools) - digital indie toolkit for computer touchers
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - Deterministic UI audits for shadcn apps, built for your terminal, your CI, and your AI agent.
