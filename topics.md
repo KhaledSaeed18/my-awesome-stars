@@ -273,7 +273,7 @@
 ## android 
 
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## api 
@@ -321,11 +321,11 @@
 ## aws 
 
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 
 ## azure 
 
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
 ## babel 
@@ -402,7 +402,7 @@
 
 ## cloud 
 
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## cms 
@@ -530,7 +530,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 
 ## documentation 
 
@@ -554,7 +554,7 @@
 
 ## emulator 
 
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 
 ## es6 
 
@@ -748,7 +748,7 @@
 
 ## jenkins 
 
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 
 ## js 
 
@@ -766,7 +766,7 @@
 ## kubernetes 
 
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 
 ## language 
 
@@ -860,6 +860,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
@@ -1258,7 +1259,7 @@
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [vprix21/neonblade-ui](https://github.com/vprix21/neonblade-ui) - Futuristic React UI component library - neon, sci-fi, and futuristic components for modern web apps. Install via CLI.
 - [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui) - 55 framework-portable UI components for Astro and React. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.
-- [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲Vercel OSS Program
+- [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲ Vercel OSS Program
 - [radiumcoders/Evil-Buttons](https://github.com/radiumcoders/Evil-Buttons) - shadcn/ui registry of playful, highly animated button components with evil aesthetics and killing interactions.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) - A large collection of high-quality React components that you can copy and paste into any project.
@@ -1502,7 +1503,7 @@
 
 ## terraform 
 
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 
 ## tui 
 
