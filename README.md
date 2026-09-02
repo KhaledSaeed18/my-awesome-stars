@@ -70,6 +70,7 @@
 
 ## HTML 
 
+- [MengTo/threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -80,6 +81,7 @@
 
 ## JavaScript 
 
+- [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [jipvandervelde/HandDrawnFont](https://github.com/jipvandervelde/HandDrawnFont) - A plug-and-play SwiftUI package for animated hand-drawn text, glyphs, and font authoring — by Jip van der Velde and Michel Elings, creators of Apple Design Award winner grug.
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -217,7 +219,7 @@
 - [maddada/Ghostex](https://github.com/maddada/Ghostex) - Rust & GPUI Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Tons of useful features.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -261,6 +263,10 @@
 
 ## TypeScript 
 
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
+- [shadcn-ui/cn](https://github.com/shadcn-ui/cn) - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 - [zenhosta/9drive](https://github.com/zenhosta/9drive) - 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [apple/app-store-server-library-node](https://github.com/apple/app-store-server-library-node) - The Node.js server library for the App Store Server API and App Store Server Notifications.
@@ -270,7 +276,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [brilliantinsane/tenkit](https://github.com/brilliantinsane/tenkit) - Build one mobile app with Expo and ship it as many branded apps from a shared codebase.
-- [ibelick/mesurer](https://github.com/ibelick/mesurer) - UI inspector and visual feedback tool for building with coding agents.
+- [ibelick/mesurer](https://github.com/ibelick/mesurer) - Inspect, annotate, and give feedback on any live interface.
 - [radiumcoders/23rd.dev](https://github.com/radiumcoders/23rd.dev) - Opinionated UI Components for shippers. An open source library of tasteful Web components. Framework agnostic. Copy, paste, ship.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
