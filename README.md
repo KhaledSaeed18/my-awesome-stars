@@ -255,7 +255,7 @@
 ## Swift 
 
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
