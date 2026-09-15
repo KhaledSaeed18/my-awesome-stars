@@ -64,7 +64,7 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -83,6 +83,7 @@
 
 ## JavaScript 
 
+- [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [jipvandervelde/HandDrawnFont](https://github.com/jipvandervelde/HandDrawnFont) - A plug-and-play SwiftUI package for animated hand-drawn text, glyphs, and font authoring — by Jip van der Velde and Michel Elings, creators of Apple Design Award winner grug.
@@ -98,7 +99,7 @@
 - [Mohammad-Al-Bast/Movie-Watchlist](https://github.com/Mohammad-Al-Bast/Movie-Watchlist) - 
 - [Mohammad-Al-Bast/Product-Inventory-System](https://github.com/Mohammad-Al-Bast/Product-Inventory-System) - 
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
@@ -167,6 +168,7 @@
 
 ## Python 
 
+- [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) - A mascot that watches the cursor and blinks when you poke it
 - [googlecolab/colab-mcp](https://github.com/googlecolab/colab-mcp) - An MCP server for interacting with Google Colab
 - [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -210,6 +212,7 @@
 
 ## Ruby 
 
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 
 ## Rust 
@@ -244,6 +247,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
@@ -270,6 +274,7 @@
 
 ## TypeScript 
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) - 
