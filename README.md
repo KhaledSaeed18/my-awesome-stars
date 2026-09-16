@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -83,6 +84,7 @@
 
 ## JavaScript 
 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -168,6 +170,7 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) - A mascot that watches the cursor and blinks when you poke it
 - [googlecolab/colab-mcp](https://github.com/googlecolab/colab-mcp) - An MCP server for interacting with Google Colab
 - [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) - 
@@ -274,6 +277,7 @@
 
 ## TypeScript 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -379,7 +383,7 @@
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [Mohammad-Al-Bast/EDUadmin-frontend](https://github.com/Mohammad-Al-Bast/EDUadmin-frontend) - A comprehensive educational administration platform for managing academic operations
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [neobrutalism/neobrutalism](https://github.com/neobrutalism/neobrutalism) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
