@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -30,6 +31,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
+
+## Astro 
+
+- [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more!
 
 ## C 
 
@@ -265,7 +270,6 @@
 
 - [ieedan/shadcn-svelte-extras](https://github.com/ieedan/shadcn-svelte-extras) - Turn key shadcn-svelte components to help finish your app.
 - [DavidHDev/svelte-bits](https://github.com/DavidHDev/svelte-bits) - An open source collection of animated, interactive & fully customizable Svelte components for building memorable websites.
-- [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more!
 
 ## Swift 
 
@@ -321,7 +325,7 @@
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
-- [sharkui-inc/shark-ui](https://github.com/sharkui-inc/shark-ui) - Beautifully designed components built with Ark UI and Tailwind.
+- [sharkui-inc/shark-ui](https://github.com/sharkui-inc/shark-ui) - Beautifully designed components built with Ark UI.
 - [zzzzshawn/matrix](https://github.com/zzzzshawn/matrix) - 
 - [vprix21/neonblade-ui](https://github.com/vprix21/neonblade-ui) - Futuristic React UI component library - neon, sci-fi, and futuristic components for modern web apps. Install via CLI.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
