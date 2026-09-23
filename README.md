@@ -38,6 +38,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
@@ -235,7 +236,7 @@
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
-- [TheOrcDev/videorc](https://github.com/TheOrcDev/videorc) - Open-source macOS screen recorder & multistream studio — record in 4K, stream live, publish with AI.
+- [TheOrcDev/videorc](https://github.com/TheOrcDev/videorc) - Open-source multistream studio and screen recorder for Mac: go live on 5 platforms free, record in 4K, publish with AI.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
