@@ -1110,6 +1110,7 @@
 
 ## others 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [webprodigies-org/flute](https://github.com/webprodigies-org/flute) - Cinematic 3D scenes from your live React UI. Flute by Web Prodigies.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
@@ -1135,7 +1136,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
-- [TheOrcDev/videorc](https://github.com/TheOrcDev/videorc) - Open-source macOS screen recorder & multistream studio — record in 4K, stream live, publish with AI.
+- [TheOrcDev/videorc](https://github.com/TheOrcDev/videorc) - Open-source multistream studio and screen recorder for Mac: go live on 5 platforms free, record in 4K, publish with AI.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 - [TheOrcDev/skills](https://github.com/TheOrcDev/skills) - Skills for True Dev Warriors.
