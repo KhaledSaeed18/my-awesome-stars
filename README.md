@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
@@ -232,6 +233,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
@@ -288,6 +290,7 @@
 
 ## TypeScript 
 
+- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [webprodigies-org/flute](https://github.com/webprodigies-org/flute) - Cinematic 3D scenes from your live React UI. Flute by Web Prodigies.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
