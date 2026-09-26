@@ -201,7 +201,7 @@
 - [TheOrcDev/skills](https://github.com/TheOrcDev/skills) - Skills for True Dev Warriors.
 - [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows & MacOS.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
