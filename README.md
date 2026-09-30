@@ -184,6 +184,7 @@
 
 ## Python 
 
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
