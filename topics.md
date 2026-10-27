@@ -163,6 +163,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -1202,7 +1203,7 @@
 ## others 
 
 - [google-research/harness2](https://github.com/google-research/harness2) - 
-- [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) - FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similarity Evader. Bypass Turnitin, iThenticate, GPTZero, CopyLeaks, & ZeroGPT for LaTeX, DOCX, & Multi-Language Source Code.
+- [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) - FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similarity Evader. Bypass Turnitin, iThenticate, GPTZero, CopyLeaks, Quillbot & ZeroGPT for LaTeX, DOCX, & Multi-Language Source
 - [audiocn/ui](https://github.com/audiocn/ui) - Audio UI components for React, built the shadcn way.
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
@@ -1619,6 +1620,16 @@
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
+## skills 
+
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) - Web animation skill for Claude Code & Codex. 帮你做跟着滚动和鼠标动的网页动画。
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 
 ## software 
 
