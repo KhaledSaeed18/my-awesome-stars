@@ -1202,6 +1202,7 @@
 
 ## others 
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [google-research/harness2](https://github.com/google-research/harness2) - 
 - [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) - FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similarity Evader. Bypass Turnitin, iThenticate, GPTZero, CopyLeaks, Quillbot & ZeroGPT for LaTeX, DOCX, & Multi-Language Source
 - [audiocn/ui](https://github.com/audiocn/ui) - Audio UI components for React, built the shadcn way.
@@ -1222,7 +1223,7 @@
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) - 
 - [carolinaaafy/travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) - A Codex skill for turning travel photos into collectible memory sticker cards.
-- [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+- [meta/stylex](https://github.com/meta/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [zenhosta/9drive](https://github.com/zenhosta/9drive) - 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [apple/app-store-server-library-node](https://github.com/apple/app-store-server-library-node) - The Node.js server library for the App Store Server API and App Store Server Notifications.
