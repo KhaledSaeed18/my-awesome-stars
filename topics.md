@@ -198,6 +198,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [windows-11](#windows-11)
@@ -314,6 +315,7 @@
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [alp82/aistack](https://github.com/alp82/aistack) - Like Stackshare but for AI
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
@@ -467,6 +469,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -1041,6 +1044,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui) - 55 framework-portable UI components for Astro, React Vue, and Svelte. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
@@ -1054,6 +1058,7 @@
 ## mcp-server 
 
 - [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
@@ -1954,6 +1959,10 @@
 
 - [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+
+## whatsapp 
+
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## whatsapp-bot 
 
