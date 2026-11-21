@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
@@ -20,6 +21,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -46,6 +48,10 @@
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## C# # 
+
+- [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 lang
 
 ## C++ 
 
@@ -186,6 +192,10 @@
 - [Mohammad-Al-Bast/EDUadmin-backend](https://github.com/Mohammad-Al-Bast/EDUadmin-backend) - EDUadmin is a modern educational administration platform designed to simplify academic management for educational institutions. It provides tools for managing students, courses, grade changes, and adm
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
+## PowerShell 
+
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
 ## Python 
 
 - [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) - PaperOrchestra is a multi-agent framework for automated AI research paper writing.
@@ -314,6 +324,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [meta/astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 - [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) - Isometric line figures that answer the pointer. For React and for anything with a DOM.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
@@ -436,7 +447,7 @@
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [Mohammad-Al-Bast/EDUadmin-frontend](https://github.com/Mohammad-Al-Bast/EDUadmin-frontend) - A comprehensive educational administration platform for managing academic operations
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [neobrutalism/neobrutalism](https://github.com/neobrutalism/neobrutalism) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
