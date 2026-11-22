@@ -236,6 +236,7 @@
 
 ## agent-skills 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -243,7 +244,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) - Web animation skill for Claude Code & Codex. 帮你做跟着滚动和鼠标动的网页动画。
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui) - 55 framework-portable UI components for Astro, React Vue, and Svelte. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -333,7 +334,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [alp82/aistack](https://github.com/alp82/aistack) - Like Stackshare but for AI
@@ -486,6 +487,7 @@
 
 ## claude-code 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 lang
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
@@ -501,7 +503,7 @@
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
@@ -518,7 +520,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) - Web animation skill for Claude Code & Codex. 帮你做跟着滚动和鼠标动的网页动画。
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 
@@ -633,6 +635,7 @@
 
 ## data-visualization 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 
 ## database 
@@ -682,7 +685,7 @@
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [opencoredev/email-sdk](https://github.com/opencoredev/email-sdk) - One simple SDK for transactional email across 23 adapters
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
@@ -1106,7 +1109,7 @@
 - [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui) - 55 framework-portable UI components for Astro, React Vue, and Svelte. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.
@@ -1120,7 +1123,7 @@
 
 ## mcp-server 
 
-- [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) - Brigade Stack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, and 
+- [escoffier-labs/brigadestack](https://github.com/escoffier-labs/brigadestack) - BrigadeStack: run coding agents anywhere and keep one record of the work. Shared tasks, claims, verification receipts, handoffs, and MCP and skills sync for Claude Code, Codex, Cursor, OpenCode, Orca,
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
